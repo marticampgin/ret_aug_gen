@@ -1,2 +1,1 @@
- Che kavo suchara, zhdi signala
-
+Initializing chat...
